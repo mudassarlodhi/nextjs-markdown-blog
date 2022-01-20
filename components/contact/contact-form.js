@@ -69,7 +69,7 @@ function ContactForm() {
         notification = {
             status: 'pending',
             title: 'Success!',
-            message: 'Message sent successfully'
+            message: 'Message sent successfully!!!'
         }
     }
     else if (requestStatus === 'error') {
